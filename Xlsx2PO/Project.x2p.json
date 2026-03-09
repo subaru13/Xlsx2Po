@@ -1,0 +1,13 @@
+{
+  "KeysColumn": "B",
+  "RowHead": 2,
+  "SrcDirectory": "../../../Src",
+  "OutDirectory": "../../../Out",
+  "ConvertTable": {
+    "CN": {
+      "Cultures": [ "cn" ],
+      "Column": "AK"
+    }
+  },
+  "PostActions": null
+}
